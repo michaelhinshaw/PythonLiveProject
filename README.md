@@ -12,10 +12,6 @@ Using Django, HTML, CSS, Javascript, Bootstrap, Python, and SQLlite I created mo
 corresponding forms.  Django is a dynamic framework that allows for consistent content across pages in web applications, so 
 that styling can be consistent as well as modular and dynamic.
 
-I was tasked with creating an index page that users can look over that serves as a table for the entered objects.  Users
-can also edit the information, if it is incorrect, or in the case of space, may have changed.
-
-Currently working to connect to an API where users can get current information on the data of the Planets and Moons, as it is ever changing.
 
 I learned how to work as a part of a team on a larger scale project.  One skill that this project taught me, was a great deal of patience.  
 I was forced to problem solve connections and routing on my own and it gave me confidence that if I look hard, I can find solutions to problems.
